@@ -2,4 +2,3 @@ Hello Owner
 Hello Collaborator
 A sample line added by me the owner.
 I added a line me as the collaborator.
-I added a new line for a better grade.
