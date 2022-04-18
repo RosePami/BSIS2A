@@ -1,6 +1,5 @@
 Hello Owner
 Hello Collaborator
-<<<<<<< HEAD
 I added a line me as the owner.
 I added a line me as the collaborator.
 I added a next line.
