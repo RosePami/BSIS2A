@@ -1,4 +1,4 @@
 Hello Owner
 Hello Collaborator
-I added a line me as the owner.
+A sample line added by me the owner.
 I added a line me as the collaborator.
