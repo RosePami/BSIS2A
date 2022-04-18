@@ -2,4 +2,8 @@ Hello Owner
 Hello Collaborator
 A sample line added by me the owner.
 I added a line me as the collaborator.
+<<<<<<< HEAD
 Hello again Collaborator
+=======
+I added a new line for a better grade.
+>>>>>>> 31396ff1f673f0d6dcf90a82b9c315d1d42f50a6
